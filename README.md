@@ -43,10 +43,9 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/) -->
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/C#/.NET
-*   MySQL, T-SQL
+*   Java/Kotlin
+*   MySQL
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
 *   GitHub/GitLab/Gerrit/Bitbucket
 <!-- 
 ### My opensource projects
@@ -55,7 +54,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/solotrue/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=rsolotrue&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=solotrue&color=DE002D">
    </a>
 </div>
 
