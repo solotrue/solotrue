@@ -54,7 +54,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/solotrue/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=solotrue&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=rsolotrue&color=DE002D">
    </a>
 </div>
 
