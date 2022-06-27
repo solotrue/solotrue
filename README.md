@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 
 -->
-Junior Software Engineer with more than 1 year of commertial experience. I have excellent knowledge in backend development on Java.
+Software Engineer with more than 1 year of commertial experience. I have excellent knowledge in backend development on Java.
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
@@ -37,10 +37,10 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    📫 How to reach me: <a href='mailto:solo_true@yahoo.com'>solo_true@yahoo.com</a>
 </p>
 
-
+<!-- 
 ### Key points
 
-*   Currently working in <!-- [Epam Systems](https://www.linkedin.com/company/epam-systems/) -->
+*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/) -->
 
 ## 🛠 Technical Stack
 *   Java/Kotlin/C#/.NET
@@ -48,10 +48,10 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
 *   Camunda, Camunda Cockpit, Camunda Modeleter
 *   GitHub/GitLab/Gerrit/Bitbucket
-
+<!-- 
 ### My opensource projects
 
-*
+* -->
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/solotrue/github-profile-views-counter">
