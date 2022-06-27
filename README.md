@@ -23,7 +23,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
            height=150
            src="https://github-readme-stats.vercel.app/api?username=solotrue&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/solotrue/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=solotrue3&layout=compact"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=solotrue&layout=compact"/></a>
 </p>
 
 <p align='center'>
