@@ -19,9 +19,9 @@ Junior Software Engineer with more than 1 year of commertial experience. I have 
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=solotrue3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=solotrue&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=solotrue3&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=solotrue&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/solotrue/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=solotrue3&layout=compact"/></a>
 </p>
@@ -40,7 +40,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 
 ### Key points
 
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Currently working in <!-- [Epam Systems](https://www.linkedin.com/company/epam-systems/) -->
 
 ## 🛠 Technical Stack
 *   Java/Kotlin/C#/.NET
