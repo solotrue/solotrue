@@ -43,9 +43,9 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/) -->
 
 ## 🛠 Technical Stack
-*   Java/Kotlin
-*   MySQL
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+*   C#/Java/Kotlin
+*   T-SQL, MySQL, MongoDB
+*   .NET, Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
 *   GitHub/GitLab/Gerrit/Bitbucket
 <!-- 
 ### My opensource projects
