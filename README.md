@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 
 -->
-Software Engineer with more than 1 year of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Software Engineer.
+In general worked with monolitic, microservice and serverless arthitectures.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=solotrue&show_icons=true&count_private=true"><img
